@@ -1,4 +1,4 @@
-#  Cataseven Themes
+#  Cataseven Loveloce Themes for Home Assistant
 
 
 
