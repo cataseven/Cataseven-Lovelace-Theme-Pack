@@ -129,6 +129,7 @@ frontend:
 2. Go to "Frontend" section
 3. Click three dots on the top right of the page and selecekt "Custom Repositories"
 4. add https://github.com/cataseven/Cataseven-Theme-Pack/find/main as a custom theme repository
+5. Click download on the opened page
 
 
 
